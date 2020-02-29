@@ -27,7 +27,7 @@ namespace linuxdeploy
             services.AddControllersWithViews();
         }
 
-        // This method gets called sdsdsdby the runxxvtime. Use this method to configure the HTTP request pipeline.
+        // This method gets called sdsdsdby the runxxvtime. Use this methsfsfod to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
