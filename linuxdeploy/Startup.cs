@@ -13,7 +13,7 @@ namespace linuxdeploy
 {
     public class Startup
     {
-        //fristxcxc
+        //fristxcxcssd
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
